@@ -1,8 +1,10 @@
-# 👩🏻‍💻 Emilly Vitória
+# 👩🏻‍💻 Andrey Leonardo 
 
 **`Desenvolvedora Iniciante`**
 
-Me chamo Emilly Vitória Barbosa batista, tenho 18 anos e sou de Ponta-Grossa, Paraná. Concluí o ensino médio no IFRSando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Emilly A leonina](https://www.youtube.com/@emillyaleonina)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Andrey Leonardo Barbosa Batista, com nome social de Emilly Vitória, tenho 18 anos e sou de Ponta-Grossa, Paraná. Estou na Segunda Série do Ensino Médio. Gosto de tecnologias e sou apaixonada por artes, tenho o sonho de me tornar uma ilustradora profissional no futuro.
+
+YouTube "[Emilly A Leonina](https://www.youtube.com/@emillyaleonina)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
